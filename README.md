@@ -1,6 +1,7 @@
 # Open-quant
 Open-source LSTM chain for quant
 
+
 This is an open source chain for testing trading oppotunities, it allows to:
 - Get financial information from Quandl, and definte wanted financial technical indicators,
 - Set up a LSTM model to "learn the knowledge" from the training set,
