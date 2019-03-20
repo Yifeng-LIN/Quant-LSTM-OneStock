@@ -1,0 +1,22 @@
+
+Test from : 2018-01-02
+Case   /  Change  /  epoch  /  batch  /  drop
+No.1  /  0.003   /  200    /  72     /  0.8
+Portofolio at the end of all period is  : 28300
+Portofolio at the end of test period is : 10233
+Mean portofolio for test period is      : 10233
+
+Test from : 2018-01-02
+Case   /  Change  /  epoch  /  batch  /  drop
+No.1  /  0.003   /  350    /  72     /  0.3
+Portofolio at the end of all period is  : 28029
+Portofolio at the end of test period is : 9748
+Mean portofolio for test period is      : 9748
+
+Test from : 2018-02-01
+Case   /  Change  /  epoch  /  batch  /  drop
+No.2  /  0.003   /  350    /  72     /  0.3
+Portofolio at the end of all period is  : 20546
+Portofolio at the end of test period is : 10157
+Mean portofolio for test period is      : 9952
+
